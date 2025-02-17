@@ -9,7 +9,7 @@ Johan
 Frontend Developer , Backend Developer , DevOps ,  Arquitecto web y QA tester 
 
 Techologias y Herramientas involucradas
-Vue.js , Nodejs , javascript , css , Bootstrap , Express , mysql , Api,  mcv , docker, chart.js,github action o jenkis, mongodb y web components 
+Vue.js , Nodejs , javascript , css , Bootstrap , Express , mysql , Api,  mcv , docker, chart.js, github Action o jenkis, mongodb y web components 
 
 mi-proyecto/
 
@@ -48,6 +48,7 @@ https://www.figma.com/design/xaUL1Iy69V8Zd579kreTIH/Untitled?node-id=0-1&p=f&t=B
   </div>
 </template>
 ```
+
 
 Instala las dependencias adicionales (como axios y vue-router):
 ```
