@@ -6,7 +6,7 @@ Jhon
 Frontend Developer , Designer UI y UX y Backend Developer
 
 Johan
-Frontend Developer , Backend Developer , DevOps y QA tester 
+Frontend Developer , Backend Developer , DevOps ,  Arquitecto web y QA tester 
 
 Techologias y Herramientas involucradas
 Vue.js , Nodejs , javascript , css , Bootstrap , Express , mysql , Api,  mcv , docker, chart.js,github action o jenkis, mongodb y web components 
