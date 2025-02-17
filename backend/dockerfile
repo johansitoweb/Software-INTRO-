@@ -1,0 +1,20 @@
+# Usa una imagen base de Node.js
+FROM node:16-alpine
+
+# Establece el directorio de trabajo
+WORKDIR /app
+
+# Copia los archivos package.json y package-lock.json (si existe)
+COPY package*.json ./
+
+# Instala las dependencias del backend
+RUN npm install
+
+# Copia el resto del código del backend
+COPY . .
+
+# Expone el puerto 3000 (o el que uses para tu backend)
+EXPOSE 3000
+
+# Comando para iniciar el backend
+CMD ["node", "server.js"]
