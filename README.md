@@ -58,3 +58,6 @@ O con yarn:
 ```
 yarn add axios vue-router
 ```
+![image](https://github.com/user-attachments/assets/a4b7c94c-7514-4359-a2f7-9fba8dd4b8aa)
+
+
